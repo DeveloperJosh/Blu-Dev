@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import logo from './logo.png'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <img src={logo} className="App-logo" alt="logo" />
+       <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello I'm Blue.
         </p>
@@ -25,6 +25,7 @@ function App() {
         >
           My Bot
         </a>
+        <a>More soon</a>
       </header>
     </div>
   );
