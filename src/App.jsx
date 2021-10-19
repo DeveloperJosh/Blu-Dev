@@ -5,27 +5,20 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <img src={logo} className="App-logo" alt="logo" />
-        <p>
+      <img src={logo} className="App-logo" alt="logo" />
+        <h2>
           Hello I'm Blue.
-        </p>
-        <a
-          className="App-link"
-          href="https://github.com/DeveloperJosh"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          My Github
-        </a>
+        </h2>
+        <a>I'm a website and bot developer, I really like meeting new people and working with friends to make new sites and bots</a>
+        <h2>My new Projects</h2>
         <a
           className="App-link"
           href="https://mail-hook.site/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          My Bot
+          MailHook
         </a>
-        <a>More soon</a>
       </header>
     </div>
   );
