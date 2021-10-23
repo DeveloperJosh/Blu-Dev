@@ -9,7 +9,7 @@ function App() {
         <p className="about">Hello I'm Blue, I'm a React/Bot Developer.</p>
         <a
           className="App-link"
-          href="https://mail-hook.site/"
+          href="https://mail-hook.xyz/"
           target="_blank"
           rel="noopener noreferrer"
         >
