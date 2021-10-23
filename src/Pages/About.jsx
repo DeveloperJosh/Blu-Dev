@@ -2,7 +2,7 @@ import '../App.css';
 
 function About() { 
     return (
-        <div className="App">
+        <><div className="App">
             <header className="App-header">
             <h1>About</h1>
             <p>
@@ -16,7 +16,9 @@ function About() {
             <button className='btn'>Home</button>
             </a>
             </header>
-        </div>
+            </div><div>
+        <footer className="footer">Made by Josh</footer>
+      </div></>
     );
 }
     

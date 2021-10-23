@@ -39,7 +39,7 @@
 }
 
 .btn {
-  background-color: #61dafb;
+  background-color: #0f0f0f;
   max-height: max-content;
   color: #fff;
   border: none;
@@ -84,4 +84,14 @@
   border-radius: 4px;
   background: #35C0F0;
   box-shadow: inset 2px 2px 2px rgba(255, 255, 255, 0.25), inset -2px -2px -2px rgba(0,0,0,0.25);
+}
+
+.input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
 }

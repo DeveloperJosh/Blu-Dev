@@ -26,6 +26,11 @@ function App() {
           rel="noopener noreferrer">
           <button class className="btn">About me</button>
         </a>
+        <a className="App-link"
+          href="/store"
+          rel="noopener noreferrer">
+          <button class className="btn">Store</button>
+        </a>
       </header>
     </div><div>
         <footer className="footer">Made by Josh</footer>
