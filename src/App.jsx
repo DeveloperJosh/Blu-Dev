@@ -6,7 +6,7 @@ function App() {
     <><div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p className="about">Hello i'm Blue, I'm a React/Bot Developer.</p>
+        <p className="about">Hello I'm Blue, I'm a React/Bot Developer.</p>
         <a
           className="App-link"
           href="https://mail-hook.site/"
