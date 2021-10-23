@@ -102,3 +102,10 @@
   font-size: 25px;
   font-weight: bold;
 }
+
+.red {
+  background-color: #282c34;
+  color: rgb(241, 14, 14);
+  font-size: 25px;
+  font-weight: bold;
+}

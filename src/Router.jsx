@@ -4,6 +4,8 @@ import Oh404 from './Pages/404';
 import About from './Pages/About';
 import Order from './Pages/Order';
 import Store from './Pages/Store';
+import Love from './Pages/Love';
+import Sad from './Pages/Sad';
 
 export const Router = () => {
     return (
@@ -13,6 +15,8 @@ export const Router = () => {
                 <Route path="/about" component={About} />
                 <Route path="/store" component={Store} />
                 <Route path="/order" component={Order} />
+                <Route path="/love" component={Love} />
+                <Route path="/sad" component={Sad} />
 
                 <Route component={Oh404} />
             </Switch>
