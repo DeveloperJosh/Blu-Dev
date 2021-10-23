@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  background-color: #61dafb;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background-color: #3fadb5;
+} 
+
+.about {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.yes {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.small {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #282c34;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}

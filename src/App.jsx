@@ -6,20 +6,25 @@ function App() {
     <div className="App">
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
-        <h2>
-          Hello I'm Blue.
-        </h2>
-        <a>I'm a website and bot developer, I really like meeting new people and working with friends to make new sites and bots</a>
-        <h2>My new Projects</h2>
+      <p className="about">Hello i'm Blue, I'm a React/Bot Developer.</p>
         <a
           className="App-link"
           href="https://mail-hook.site/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          MailHook
-        </a>
+         <button class className="btn">Mail Hook</button>
+        </a>  
+      <a className="App-link"
+       href="https://github.com/DeveloperJosh" 
+       target="_blank"
+       rel="noopener noreferrer">
+        <button class className="btn">My Github</button>
+      </a>
+      <h className="yes">About me</h>
+      <table className="small">Hello as you know I'm Blue and yes i love to make websites and discord bots but sadly i have been coding for years but i am a bad developer but i get the job done.</table>
       </header>
+      <footer className="footer">Made by Josh</footer>
     </div>
   );
 }
