@@ -25,6 +25,11 @@
   color: white;
 }
 
+.App-subheader {
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -137,4 +142,9 @@
   color: rgb(241, 14, 14);
   font-size: 25px;
   font-weight: bold;
+}
+
+.image1 {
+  width: 600px;
+  height: auto;
 }
