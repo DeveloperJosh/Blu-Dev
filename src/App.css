@@ -53,6 +53,34 @@
   background-color: #3fadb5;
 } 
 
+.btn2 {
+  background-color: #ff0000;
+  max-height: max-content;
+  margin: 10px;
+  color: #fff;
+  border: #61dafb;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn2:hover {
+  background-color: #3fadb5;
+} 
+
+.red1 {
+  background-color: #ff0000;
+}
+
+.blue {
+  background-color: #35C0F0;
+}
+
+.green {
+  background-color: #0ec00e;
+}
+
 .about {
   font-size: 25px;
   font-weight: bold;
