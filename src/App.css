@@ -41,6 +41,7 @@
 .btn {
   background-color: #0f0f0f;
   max-height: max-content;
+  margin: 10px;
   color: #fff;
   border: #61dafb;
   padding: 10px 20px;
