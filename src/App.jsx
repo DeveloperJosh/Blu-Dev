@@ -7,14 +7,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className="about">Hello I'm Blue, I'm a React/Bot Developer.</p>
-        <a
-          className="App-link"
-          href="https://mail-hook.xyz/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <button class className="btn">Mail Hook</button>
-        </a>
         <a className="App-link"
           href="https://github.com/DeveloperJosh"
           target="_blank"
