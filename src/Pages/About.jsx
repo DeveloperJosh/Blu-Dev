@@ -10,7 +10,7 @@ function About() {
             </p>
             <h2 className="App-subheader">What i have made.</h2>
             <a className="App-link"
-          href="Https://mail-hook.xyz"
+          href="/mailhook"
           rel="noopener noreferrer">
           <button class className="btn blue">Mail-Hook</button>
            </a>

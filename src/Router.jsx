@@ -5,6 +5,7 @@ import About from './Pages/About';
 import HS from './Pages/Happi';
 import Love from './Pages/Love';
 import Sad from './Pages/Sad';
+import Mail from './Pages/Mail';
 
 export const Router = () => {
     return (
@@ -15,6 +16,7 @@ export const Router = () => {
                 <Route path="/love" component={Love} />
                 <Route path="/sad" component={Sad} />
                 <Route path="/hs" component={HS} />
+                <Route path="/mailhook" component={Mail} />
 
                 <Route component={Oh404} />
             </Switch>
