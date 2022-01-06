@@ -18,11 +18,6 @@ function App() {
           rel="noopener noreferrer">
           <button class className="btn">About me</button>
         </a>
-        <a className='App-link'
-        href='/twitch'
-        rel="noopener noreferrer">
-          <button class className="btn">Aka_Yee's Twitch</button>
-        </a>
       </header>
     </div><div>
         <footer className="footer">Made by Josh</footer>
